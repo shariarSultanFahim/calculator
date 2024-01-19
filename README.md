@@ -1,2 +1,2 @@
 Simple Calculator made with HTML , CSS , JS
-https://shariarfam.github.io/calculator/
+https://shariarsultanfahim.github.io/calculator/
